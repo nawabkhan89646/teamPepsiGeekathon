@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0; 
+  }
+  .image-container {
+   width: 100px;
+   height: 100vh;
+   background-image: url('https://www.pepsicoindia.co.in/images/indialibraries/about-pepsico-india/in-about-dsc_1926.jpg');
+   background-size: cover;
+   background-position: center;
+   background-repeat: no repeat;
+   
+  }
+  .images{
+   display: grid;
+  grid-template-columns: repeat(2,300px);
+  grid-template-rows:repeat(2,400px);
+  column-gap: 0;
+  row-gap: 0;
+  padding-top: 300px;
+  padding-left: 300px;
+  }
+  .images img{
+  display:block;
+  height: 400px;
+  width: 300px;
+  
+  }
+  .pictures1 img{
+  height: 300px;
+  width: 300px;
+  }
+  .pictures2 img{
+   height: 539px;
+   width: 345px;
+  }
+  
+  
+   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  css =========================================================================
