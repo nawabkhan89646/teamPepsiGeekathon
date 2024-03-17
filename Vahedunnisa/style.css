@@ -44,6 +44,11 @@
    height: 539px;
    width: 345px;
   }
+  .bullet_display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
   
   
    
