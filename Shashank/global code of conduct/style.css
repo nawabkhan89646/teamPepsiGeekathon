@@ -1,0 +1,305 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Graphik LC Web Regular";
+}
+.first{
+    padding: 0px 15px 50px  0px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content{
+    padding: 100px 15px 0px;
+}
+.content h2{
+    margin: 0 0 24px;
+    height: 32px;
+    color: #000;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: .33px;
+    line-height: 32px;
+    text-align: center;
+}
+.content h1{
+    font-size: 4rem;
+    line-height: 4.5rem;
+    text-align: center;
+}
+.special-text{
+    position: relative;
+}
+.yellow-bar{
+    top: 30px;
+    left: 0;
+    z-index: -1;
+    height: 30px;
+    width: 250px;
+    position: absolute;
+    background-color: #ffcc3d;
+}
+
+
+.second{
+    display: flex;
+    align-items: start;
+    gap: 30px;
+    margin: 0px 130px;
+    padding-bottom: 100px;
+}
+.left{
+    width: 30%;
+}
+.right{
+    width: 58%;
+}
+.left h3{
+    font-size: 2rem;
+    line-height: 2.625rem;
+    font-weight: 900;
+}
+.right p{
+    margin-bottom: 1.5rem;
+}
+.right strong{
+    line-height: 24px;
+}
+.third{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0px 140px;
+    padding-bottom: 100px;
+}
+.image{
+    width: 40%;
+    height: 524px;
+}
+.third-content{
+    width: 50%;
+    height: 524px;
+    background-color: #C05535;
+}
+.image img{
+    width: 100%;
+    height: 100%;
+    /* object-fit: contain; */
+}
+.content-1{
+    padding: 25% 80px;
+    color: white;
+}
+.third-content h3{
+    font-size: 2rem;
+    line-height: 2.625rem;
+    margin-bottom: 20px;
+}
+.third-content p{
+    margin-bottom: 24px;
+}
+.third-content a{
+    color: white;
+    font-size: 18px;
+    font-weight: 900;
+    letter-spacing: .52px;
+    line-height: 28px;
+    text-decoration: none;
+}
+
+
+.fourth{
+    margin: 0px 140px;
+    padding-bottom: 100px;
+
+}
+.special{
+    color: #eeefef !important;
+    font-size: 180px !important;
+    font-weight: 900 !important;
+    letter-spacing: 0 !important;
+    line-height: 200px !important;
+    position: relative;
+    padding-bottom: 20px ;
+}
+.special span{
+    color: #000;
+    font-size: 32px !important;
+    font-weight: 700 !important;
+    letter-spacing: 0 !important;
+    line-height: 40px !important;
+    position: absolute;
+    top: 100px;
+    left: 120px;
+}
+
+.heading p{
+    margin-bottom: 24px;
+}
+.heading ul{
+    padding: 0px 0px 16px 40px;
+}
+.heading ul li{
+    display: list-item !important;
+    line-height: 25px;
+}
+.link a{
+    font-weight: bolder;
+    text-decoration: none;
+    color: rgb(6, 63, 208);
+}
+
+
+
+.fifth{
+    margin: 0px 140px;
+    padding-bottom: 100px;
+}
+.special-fifth{
+    color: #eeefef !important;
+    font-family: Graphik Lc Web !important;
+    font-size: 180px !important;
+    font-weight: 900 !important;
+    letter-spacing: 0 !important;
+    line-height: 200px !important;
+    position: relative;
+    padding-bottom: 20px;
+}
+.special-fifth span{
+    font-size: 32px !important;
+    font-weight: 700 !important;
+    letter-spacing: 0 !important;
+    line-height: 40px !important;
+    position: absolute;
+    color: black;
+    top: 110px;
+    left: 120px;
+}
+.fifth-heading p{
+    padding-bottom: 24px;
+
+}
+.fifth-heading a{
+    line-height: 28px;
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+
+.fifth_section{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.fifth_child{
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.fifth_child h1{
+    font-size: 3.5rem;
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
+.apply_flex_5{
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+.geje img{
+    height: 350px;
+    width: 300px;
+    padding-bottom: 10px;
+}
+.geje p{
+    padding-bottom: 3px;
+}
+.geje h2{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.Ranbir img{
+    height: 150px;
+    width: 300px;
+    padding-bottom: 10px;
+}
+.Ranbir p{
+    padding-bottom: 3px; 
+}
+.Ranbir h2{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.sara img{
+    height: 280px;
+    width: 300px;
+    padding-bottom: 10px;
+}
+.sara p{
+    padding-bottom: 3px;
+}
+.sara h2{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.hardik img{
+    height: 300px;
+    width: 300px;
+    padding-bottom: 10px;
+}
+.hardik p{
+    padding-bottom: 3px;
+}
+.hardik h2{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.fifth_section h3{
+    padding-top: 5%;
+    padding-bottom: 8%;
+}
+.fifth_section h3 a{
+    text-decoration: none;
+    color: #000;
+}
+
+
+.sixth_section{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f7f1f1;
+}
+.sixth_child{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 1.5rem;
+    padding: 85px 0;
+}
+.left6{
+    width: 45%;
+}
+.left6 h2{
+    font-size: 2rem;
+}
+.toptext{
+    padding-bottom: 20px;
+}
+.middletext{
+    padding: 20px 0px;
+}
+.bottomtext{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.right6 a{
+    text-decoration: none;
+    color: #000;
+}
