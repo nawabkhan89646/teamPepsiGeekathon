@@ -1,0 +1,271 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "REM";
+    
+}
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+nav{
+    background-color: blue;
+    width: 100vw;
+    padding: 20px;
+}
+.first_section{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    /* padding: 100px; */
+}
+.first_text{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+    margin-bottom: 24px;
+}
+.second_text{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    margin-bottom: 150px; 
+}
+strong{
+    background: linear-gradient(120deg, #ffcc3d 0, #ffcc3d 100%);
+    background-repeat: no-repeat;
+    background-size: 97% 39%;
+    background-position: 0 90%;
+}
+.second_section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 65px;
+    width: 100%;
+}
+.second_child{
+    width: 80%;
+    display: flex;
+    
+}
+.left{
+    padding-left: 15px;
+    padding-right: 15px;
+    /* align-items: top; ---------------- doubt */
+    width: 40%;
+}
+.left p{
+    /* margin-top: -100px; */
+    padding: 0;
+    font-size: 40px;
+    font-weight: 800;
+}
+.right{
+    display:flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 60%;
+}
+.up{
+    padding-bottom: 24px;
+    font-size: 1.2rem;
+}
+.middle{
+    padding-bottom: 24px;
+    font-size: 1.2rem;
+}
+.bottom{
+    padding-bottom: 24px;
+    font-size: 1.2rem;
+}
+span{
+    color: rgb(86, 86, 233);
+}
+.text{
+    text-align: center;
+    font-size: 2.5rem;
+    line-height: 4rem;
+}
+.third_section{
+    width: 100%; 
+    display: flex;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+.third_child{  
+    gap: 1rem;
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+
+}
+.third_child h1{
+    /* text-align: center; */
+    font-size: 3.5rem;
+}
+.apply_flex{
+    display: flex;
+   width: 100%;
+    justify-content: center;
+}
+.apply_flex img{
+  height: 100%;
+  width: 100%;
+}
+.left3, .right3{
+    width: 50%;
+    display:flex;
+    flex-direction: column;
+    gap :1rem;
+    padding: 10px;
+}
+.left3 div, .right3 div{
+    height: 100%;
+    width: 100%;
+}
+.fourth_section{
+    width: 100%; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.fourth_child{
+    gap: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+}
+.fourth_child h1{ 
+    text-align: center;
+    font-size: 3.5rem;
+    margin-bottom: 40px;
+}
+.lady{
+    display: flex;
+    align-items: center;
+}
+.warehouse{
+    display: flex;
+    align-items: center;
+}
+.prizes{
+    display: flex;
+    align-items: center;
+}
+.apply_flex_4 img{
+    width: 50%;
+    height: 400px;
+}
+.apply_flex_4 p{
+    padding: 10rem 5rem;
+    border: 2px solid green;
+    width: 50%;
+    height: 100%;
+}
+.fifth_section{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.fifth_child{
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.fifth_child h1{
+    font-size: 3.5rem;
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
+.apply_flex_5{
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+.geje img{
+    height: 350px;
+    width: 300px;
+    padding-bottom: 10px;
+}
+.geje p{
+    padding-bottom: 3px;
+}
+.geje h2{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.Ranbir img{
+    height: 150px;
+    width: 300px;
+    padding-bottom: 10px;
+}
+.Ranbir p{
+    padding-bottom: 3px; 
+}
+.Ranbir h2{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.sara img{
+    height: 280px;
+    width: 300px;
+    padding-bottom: 10px;
+}
+.sara p{
+    padding-bottom: 3px;
+}
+.sara h2{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.hardik img{
+    height: 300px;
+    width: 300px;
+    padding-bottom: 10px;
+}
+.hardik p{
+    padding-bottom: 3px;
+}
+.hardik h2{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.fifth_section h3{
+    padding-top: 7%;
+    padding-bottom: 15%;
+}
+.sixth_section{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 5%;
+}
+.sixth_child{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 1.5rem;
+}
+.left6{
+    width: 45%;
+}
+.left6 h2{
+    font-size: 2rem;
+}
+.toptext{
+    padding-bottom: 20px;
+}
+.middletext{
+    padding: 20px 0px;
+}
+.bottomtext{
+    padding-top: 20px;
+}
