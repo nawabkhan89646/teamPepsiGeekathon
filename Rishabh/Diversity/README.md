@@ -23,11 +23,15 @@ This Page tells us about the team work in Pepsi organization & collaboration of 
 
 ## Screenshots
 
-![Homepage Screenshot](https://github.com/vasu412/Geekathon/blob/main/Swaraj/ResultPage/ScreenShots/1.png)
+! [Screenshot 1](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/6cb22c67a63d6dc2bbb15b3201340f3ee15bbccd/Rishabh/Diversity/diversity_screenshot_1.JPG))
 
-![Homepage Screenshot](https://github.com/vasu412/Geekathon/blob/main/Swaraj/ResultPage/ScreenShots/2.png)
+! [Screenshot 2](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/6cb22c67a63d6dc2bbb15b3201340f3ee15bbccd/Rishabh/Diversity/diversity_screenshot_2.JPG)
 
-![Homepage Screenshot](https://github.com/vasu412/Geekathon/blob/main/Swaraj/ResultPage/ScreenShots/3.png)
+! [Screenshot 3](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/6cb22c67a63d6dc2bbb15b3201340f3ee15bbccd/Rishabh/Diversity/diversity_screenshot_3.JPG)
+
+! [Screenshot 4](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/6cb22c67a63d6dc2bbb15b3201340f3ee15bbccd/Rishabh/Diversity/diversity_screenshot_4.JPG)
+
+! [Screenshot 5](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/6cb22c67a63d6dc2bbb15b3201340f3ee15bbccd/Rishabh/Diversity/diversity_screenshot_5.JPG)
 
 
 ## Installation
