@@ -52,7 +52,7 @@ cd teamPepsiGeekathon/Hitesh
 
 ### Contact
 For any inquiries or feedback, feel free to contact us:
-Your Name - jangidhiteshr12234gmail.com
+Email Id- jangidhiteshr12234gmail.com
 
 # Thank you for your interest in my work! 😊
 Project Status
