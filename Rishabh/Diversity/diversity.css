@@ -20,23 +20,36 @@ nav{
     display: flex;
     flex-direction:column;
     align-items: center;
-    /* padding: 100px; */
+    padding-top: 10%;
+    width: 100%;
+}
+.first_child{
+    width: 95%;
+    display: flex;
+    flex-direction:column;
+    text-align: center;
 }
 .first_text{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 24px;
+    font-size: 20px;
     margin-bottom: 24px;
+    font-weight: 700;
+}
+.first_text p{
+    font-size: 1.7rem;
 }
 .second_text{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 30px;
     margin-bottom: 150px; 
+    width: 100%;
 }
 strong{
     background: linear-gradient(120deg, #ffcc3d 0, #ffcc3d 100%);
     background-repeat: no-repeat;
     background-size: 97% 39%;
     background-position: 0 90%;
+    font-weight: 900;
 }
 .second_section{
     display: flex;
@@ -48,37 +61,39 @@ strong{
 .second_child{
     width: 80%;
     display: flex;
+    gap: 2rem;
     
 }
 .left{
     padding-left: 15px;
     padding-right: 15px;
     /* align-items: top; ---------------- doubt */
-    width: 40%;
+    width: 30%;
 }
 .left p{
     /* margin-top: -100px; */
     padding: 0;
-    font-size: 40px;
-    font-weight: 800;
+    font-size: 35px;
+    font-weight: 700;
 }
 .right{
     display:flex;
     flex-direction: column;
     gap: 1rem;
     width: 60%;
+    font-weight: 300;
 }
 .up{
-    padding-bottom: 24px;
-    font-size: 1.2rem;
+    padding-bottom: 15px;
+    font-size: 1rem;
 }
 .middle{
-    padding-bottom: 24px;
-    font-size: 1.2rem;
+    padding-bottom: 15px;
+    font-size: 1rem;
 }
 .bottom{
-    padding-bottom: 24px;
-    font-size: 1.2rem;
+    padding-bottom: 15px;
+    font-size: 1rem;
 }
 span{
     color: rgb(86, 86, 233);
@@ -92,7 +107,7 @@ span{
     width: 100%; 
     display: flex;
     justify-content: center;
-    margin-bottom: 80px;
+    padding-bottom: 8%;
 }
 .third_child{  
     gap: 1rem;
@@ -126,45 +141,77 @@ span{
     width: 100%;
 }
 .fourth_section{
-    width: 100%; 
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    
-}
-.fourth_child{
-    gap: 1rem;
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 80%;
-}
-.fourth_child h1{ 
     text-align: center;
+    width: 100%;
+    padding-bottom: 3%;
+}
+.fourth_child h1{
     font-size: 3.5rem;
-    margin-bottom: 40px;
+    padding-bottom: 5%;
 }
-.lady{
+.fourth_child{
+    width: 70%;   
+}
+.one{
     display: flex;
-    align-items: center;
 }
-.warehouse{
-    display: flex;
-    align-items: center;
-}
-.prizes{
-    display: flex;
-    align-items: center;
-}
-.apply_flex_4 img{
+.one img {
     width: 50%;
-    height: 400px;
 }
-.apply_flex_4 p{
-    padding: 10rem 5rem;
-    border: 2px solid green;
+.text_matter1{
     width: 50%;
-    height: 100%;
+    background-color: #C05535;
+    color: #fff;
+    padding: 15% 7%;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+}
+.p1_1, .p2_1, .p3_1{
+    font-size: 2rem;
+    font-weight: 600;
+    padding-bottom: 13px;
+}
+.p1_2, .p2_2, .p3_2{
+    font-size: 1rem;
+    padding-bottom: 24px;
+    font-weight: 250;
+}
+.p1_3, .p2_3, .p3_3{
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.two{
+    display: flex;
+}
+.two img{
+    width: 50%;
+}
+.text_matter2 {
+    width: 50%;
+    padding: 15% 7%;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+}
+.three{
+    display: flex;
+}
+.three img {
+    width: 50%;
+}
+.text_matter3{
+    width: 50%;
+    background-color: #568302;
+    color: #fff;
+    padding: 15% 7%;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
 }
 .fifth_section{
     width: 100%;
@@ -246,6 +293,7 @@ span{
     flex-direction: column;
     align-items: center;
     padding-bottom: 5%;
+    background-color: #F5F5F5;
 }
 .sixth_child{
     width: 80%;
@@ -253,9 +301,10 @@ span{
     flex-direction: row;
     justify-content: center;
     gap: 1.5rem;
+    padding: 7% 15%;
 }
 .left6{
-    width: 45%;
+    width: 70%;
 }
 .left6 h2{
     font-size: 2rem;
@@ -268,4 +317,7 @@ span{
 }
 .bottomtext{
     padding-top: 20px;
+}
+.right6 hr{
+    width: 90%;
 }
