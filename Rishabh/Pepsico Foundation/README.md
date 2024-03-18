@@ -24,11 +24,13 @@ This Page tells us about the Philanthropy inside Pepsi organization.
 
 ## Screenshots
 
-![Homepage Screenshot](https://github.com/vasu412/Geekathon/blob/main/Swaraj/ResultPage/ScreenShots/1.png)
+![Homepage Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/22ea2849f593c3cc8379407fb578cb6d79ab8176/Rishabh/Pepsico%20Foundation/foundation_screenshot_1.JPG)
 
-![Homepage Screenshot](https://github.com/vasu412/Geekathon/blob/main/Swaraj/ResultPage/ScreenShots/2.png)
+![Homepage Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/22ea2849f593c3cc8379407fb578cb6d79ab8176/Rishabh/Pepsico%20Foundation/foundation_screenshot_2.JPG)
 
-![Homepage Screenshot](https://github.com/vasu412/Geekathon/blob/main/Swaraj/ResultPage/ScreenShots/3.png)
+![Homepage Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/22ea2849f593c3cc8379407fb578cb6d79ab8176/Rishabh/Pepsico%20Foundation/foundation_screenshot_3.JPG)
+
+![Homepage Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/22ea2849f593c3cc8379407fb578cb6d79ab8176/Rishabh/Pepsico%20Foundation/foundation_screenshot_4.JPG)
 
 
 ## Installation
