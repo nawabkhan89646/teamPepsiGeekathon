@@ -64,6 +64,6 @@ The developers and contributors who have worked on this project
 2 - Hitesh
 3 - Shashank
 4 - Nishant
-5 - Mobina
+5 - vahedunnisa
 6 - Rishabh
 7 - Kishore
