@@ -49,7 +49,7 @@ cd teamPepsiGeekathon/Shashank/Leadership
 
 ## Usage
 - Created this webpage with five section from top to bottom.
-- Usage can be of whole web page from top to bottom with seven section by using scroll bar
+- Usage can be of whole web page from top to bottom with five section by using scroll bar
 
 - Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
