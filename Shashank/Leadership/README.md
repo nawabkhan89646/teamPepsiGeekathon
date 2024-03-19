@@ -22,15 +22,15 @@ This Page tells us about the Leaders of pepsi organization.
 
 ## Screenshots
 
-![Section 1 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/46cf73e79925f93223118db0eeed308e14eec524/Shashank/global%20code%20of%20conduct/screenshot/Screenshot%202024-03-19%20124615.png)
+![Section 1 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/f35c91982ec0a219f16412402399f4e3484e6a19/Shashank/Leadership/screenshot/Screenshot%202024-03-19%20130748.png)
 
-![Section 2 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/46cf73e79925f93223118db0eeed308e14eec524/Shashank/global%20code%20of%20conduct/screenshot/Screenshot%202024-03-19%20124643.png)
+![Section 2 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/f35c91982ec0a219f16412402399f4e3484e6a19/Shashank/Leadership/screenshot/127.0.0.1_5501_Shashank_Leadership_index.html.png)
 
-![Section 3 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/46cf73e79925f93223118db0eeed308e14eec524/Shashank/global%20code%20of%20conduct/screenshot/Screenshot%202024-03-19%20124708.png)
+![Section 3 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/f35c91982ec0a219f16412402399f4e3484e6a19/Shashank/Leadership/screenshot/Screenshot%202024-03-19%20132600.png)
 
-![Section 4 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/46cf73e79925f93223118db0eeed308e14eec524/Shashank/global%20code%20of%20conduct/screenshot/Screenshot%202024-03-19%20124745.png)
+![Section 4 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/f35c91982ec0a219f16412402399f4e3484e6a19/Shashank/Leadership/screenshot/Screenshot%202024-03-19%20124942.png)
 
-![Section 5 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/46cf73e79925f93223118db0eeed308e14eec524/Shashank/global%20code%20of%20conduct/screenshot/Screenshot%202024-03-19%20124806.png)
+![Section 5 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/f35c91982ec0a219f16412402399f4e3484e6a19/Shashank/Leadership/screenshot/Screenshot%202024-03-19%20125007.png)
 
 
 
