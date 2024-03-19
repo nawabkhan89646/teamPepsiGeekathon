@@ -220,7 +220,7 @@ h2::after {
     background-repeat: no-repeat;
 }
 
-/* .underline_anim:after {
+ .underline_anim:after {
     content: '';
     position: absolute;
     width: 100%;
@@ -236,7 +236,7 @@ h2::after {
 .underline_anim:hover:after {
     transform: scaleX(1);
     transform-origin: bottom left;
-} */
+} 
 /* ------------------------------------SECTION 2 CODES HERE  ( Mountain Dew + Image )------------------------------------ */
 .section2_div {
     width: 100%;
@@ -565,7 +565,7 @@ p {
     display: flex;
     justify-content: space-around;
     height: 242px;
-     display: none; 
+    display: none; 
     z-index: 10;
 }
 .class2{
@@ -590,7 +590,8 @@ p {
     line-height: 34px;
 }
 #link1:hover + .whoweare{
-    display: block;
+     display: block;
+
 }
 
 
