@@ -9,7 +9,7 @@
     flex-direction: column;
     align-items: center;
     width: 100%;
-    padding-bottom: 10%;
+    padding-bottom: 7%;
 }
 .first_child{
     display: flex;
@@ -29,10 +29,20 @@
 }
 .down{
     font-size: 2rem;
-    width: 80%;
+    width: 100%;
+    display: flex;
+    text-align:  center;
+}
+.down h1{
+    font-size: 3rem;
 }
 strong{
-    background-color: rgb(218, 178, 48);
+    background: linear-gradient(120deg, #ffcc3d 0, #ffcc3d 100%);
+    background-repeat: no-repeat;
+    background-size: 97% 39%;
+    background-position: 0 90%;
+    font-weight: 900;
+    align-self: center;
 }
 .first_child .down{
     width: 70%;
@@ -54,7 +64,6 @@ strong{
     padding-bottom: 10%;
 }
 .third_child{
-    /* width: 90%; */
     display: flex;
     justify-content: center;
     gap: 2rem;
@@ -67,14 +76,19 @@ strong{
 .right{
     width: 40%;
     font-size: 1rem;
-    font-weight: ;
+    font-weight:300 ;
 }
 .fourth_section{
     display: flex;
     flex-direction: column;
     align-items: center;
+    text-align: center;
     width: 100%;
-    padding-bottom: 15%;
+    padding-bottom: 12%;
+}
+.fourth_child h1{
+    font-size: 3.5rem;
+    padding-bottom: 5%;
 }
 .fourth_child{
     width: 70%;   
@@ -89,7 +103,26 @@ strong{
     width: 50%;
     background-color: #C05535;
     color: #fff;
+    padding: 15% 7%;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
 }
+.p1_1, .p2_1, .p3_1, .p4_1{
+    font-size: 2rem;
+    font-weight: 600;
+    padding-bottom: 13px;
+}
+.p1_2, .p2_2, .p3_2, .p4_2{
+    font-size: 1rem;
+    padding-bottom: 24px;
+    font-weight: 250;
+}
+.p1_3, .p2_3, .p3_3, .p4_3{
+    font-size: 1rem;
+    font-weight: 600;
+}
+
 .two{
     display: flex;
 }
@@ -98,6 +131,10 @@ strong{
 }
 .text_matter2 {
     width: 50%;
+    padding: 15% 7%;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
 }
 .three{
     display: flex;
@@ -109,6 +146,10 @@ strong{
     width: 50%;
     background-color: #568302;
     color: #fff;
+    padding: 15% 7%;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
 }
 .four{
     display: flex;
@@ -118,29 +159,79 @@ strong{
 }
 .text_matter4{
     width: 50%;
+    padding: 15% 7%;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+}
+.fifth_section{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 10%;
+}
+.fifth_child{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.card{
+    background-color: #F3F3F3;
+    padding: 15% 7%;
+    border-radius: 2%;
+}
+.card h2{
+    font-size: 3rem;
+    padding-bottom: 25px;
+}
+.card p{
+    font-size: 1rem;
+    padding-bottom: 13px;
+    font-weight: 600;
+}
+.fifth_child p{
+    padding-top: 5%;
 }
 .sixth_section{
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-bottom: 7%;
 }
 .sixth_child{
     width: 90%;
     display: flex;
     flex-direction: column;
     align-items: center;
+    
+}
+.sixth_child h3{
+    padding-top: 5%;
+}
+.sixth_child h1{
+    font-size: 3rem;
+    padding-bottom: 4%;
 }
 .fifth_child h1{
     font-size: 3.5rem;
-    padding-top: 10%;
+    padding-top: 7%;
     padding-bottom: 5%;
 }
 .apply_flex_5{
     display: flex;
+    justify-content: flex-start;
     align-items: center;
     gap: 1.5rem;
+    height: 100%;
+    /* position: absolute; */
 }
+/* .geje .Ranbir .sara .hardik{
+    position: relative;
+    top: 0;
+} */
 .geje img{
     height: 350px;
     width: 300px;
@@ -152,6 +243,7 @@ strong{
 .geje h2{
     padding-top: 10px;
     padding-bottom: 30px;
+    font-size: 1rem;
 }
 .Ranbir img{
     height: 150px;
@@ -164,6 +256,7 @@ strong{
 .Ranbir h2{
     padding-top: 10px;
     padding-bottom: 30px;
+    font-size: 1rem;
 }
 .sara img{
     height: 280px;
@@ -176,6 +269,7 @@ strong{
 .sara h2{
     padding-top: 10px;
     padding-bottom: 30px;
+    font-size: 1rem;
 }
 .hardik img{
     height: 300px;
@@ -188,4 +282,110 @@ strong{
 .hardik h2{
     padding-top: 10px;
     padding-bottom: 30px;
+    font-size: 1rem;
+}
+.seventh_section{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 5%;
+    background-color: #F3F3F3;
+}
+.seventh_child{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 1.5rem;
+    padding: 5% 10%;
+}
+.left6{
+    width: 60%;
+}
+.left6 h2{
+    font-size: 2rem;
+}
+.toptext{
+    padding-bottom: 20px;
+}
+.middletext{
+    padding: 20px 0px;
+}
+.bottomtext{
+    padding-top: 20px;
+}
+.right6 hr{
+    width: 100%;
+    height: 0.2rem;
+}
+.p1_3:hover{
+    text-decoration: underline;
+    color: #f5f7f8;
+}
+.p2_3:hover{
+    text-decoration: underline;
+    color: #000000;
+}
+.p3_3:hover{
+    text-decoration: underline;
+    color: #f5f7f8;
+}
+.p4_3:hover{
+    text-decoration: underline;
+    color: #000000;
+}
+.geje p:hover{
+    text-decoration: underline;
+    color: #1d73b4;
+}
+.geje h2:hover{
+    text-decoration: underline;
+    color: #1d73b4;
+}
+.Ranbir p:hover{
+    text-decoration: underline;
+    color: #1d73b4;
+}
+.sara p:hover{
+    text-decoration: underline;
+    color: #1d73b4;
+}
+.sara h2:hover{
+    text-decoration: underline;
+    color: #1d73b4;
+}
+.hardik p:hover{
+    text-decoration: underline;
+    color: #1d73b4;
+}
+.hardik h2:hover{
+    text-decoration: underline;
+    color: #1d73b4;
+}
+.Ranbir h2:hover{
+    text-decoration: underline;
+    color: #1d73b4;
+}
+.sixth_child h3:hover{
+    text-decoration: 2px underline;
+    color: #010508;
+}
+.toptext:hover{
+    text-decoration: 2px underline;
+    color: #010508;
+  }
+  .middletext:hover{
+    text-decoration: 2px underline;
+    color: #010508;
+  }
+  .bottomtext:hover{
+    text-decoration: 2px underline;
+    color: #010508;
+  }
+
+@media screen and (max-width: 766px) {
+    .apply_flex_5 {
+        width: 100%;
+    }
 }
