@@ -69,12 +69,12 @@ strong{
     gap: 2rem;
 }
 .left{
-    width: 30%;
+    width: 50%;
     font-size: 2.5rem;
     font-weight: 600;
 }
 .right{
-    width: 40%;
+    width: 50%;
     font-size: 1rem;
     font-weight:300 ;
 }
@@ -223,7 +223,6 @@ strong{
 .apply_flex_5{
     display: flex;
     justify-content: flex-start;
-    align-items: center;
     gap: 1.5rem;
     height: 100%;
     /* position: absolute; */
@@ -301,7 +300,10 @@ strong{
     padding: 5% 10%;
 }
 .left6{
-    width: 60%;
+    width: 50%;
+}
+.right{
+    width: 50%;
 }
 .left6 h2{
     font-size: 2rem;
@@ -384,8 +386,8 @@ strong{
     color: #010508;
   }
 
-@media screen and (max-width: 766px) {
-    .apply_flex_5 {
-        width: 100%;
+@media screen and (max-width: 425px) {
+    .apply_flex_5{
+        overflow-x: scroll;
     }
 }
