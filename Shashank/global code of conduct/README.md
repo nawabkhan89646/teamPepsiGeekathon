@@ -6,7 +6,7 @@ Welcome to the Pepsi UI Project! This project provides an overview of the offici
 
 Check out the live demo [here](https://nawabkhan89646.github.io/teamPepsiGeekathon/).
 
-## Webpage name - Pepsico Foundation
+## Webpage name - Global code of conduct
 
 This Page tells us about the Global code of conduct of pepsi organization.
 
