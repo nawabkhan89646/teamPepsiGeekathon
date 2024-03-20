@@ -26,9 +26,17 @@
 }
 .consumer{
   display: flex;
+  flex-direction: column;
   padding-top: 4em;
   gap: 3rem;
 
+}
+.info{
+  display: flex;
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+  gap: 20px;
 }
 .consumer h1{
   font-size: 32px;
@@ -38,7 +46,7 @@
 
   
 }
-.consumer ul{
+.content ul{
   list-style: none;
   margin-right: 15%;
 
@@ -55,6 +63,11 @@
   line-height: 24px;
   font-weight: 800;
 }
+
+
+
+
+
 .special{
   padding-left: 100px;
   display: inline-block;
