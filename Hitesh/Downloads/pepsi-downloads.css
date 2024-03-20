@@ -4,9 +4,13 @@
 }
 body{
     font-family: Arial;
+   
+    font-weight: bold;
+    
+}
+.bodyy{
     margin-left: 14%;
     margin-top: 5%; 
-    font-weight: bold;
     margin-right: 14%;
 }
 .center-page{
@@ -107,5 +111,77 @@ text-decoration: underline;
     letter-spacing: normal;
 }
 .end-part{
-    margin-bottom: 10%;
+    margin-bottom: 3em;
 }
+.footer{
+    background-color:#004c97;
+     padding-top: 5%;
+     padding-left: 8%;
+ }
+ .logo{
+     color: #fff;
+     font-size:16px;
+     line-height:19px;
+     letter-spacing:0.38px;
+     font-weight:400;
+ }
+ .socials{
+     display: flex;
+     justify-content: space-between;
+     padding-right: 18%;
+    
+ }
+ .socials ul{
+     list-style: none;
+ }
+ .socials ul li{
+     padding-top: 2em;
+ }
+ .socials ul li a{
+     color: #fff;
+     font-size:15px;
+     line-height:19px;
+     letter-spacing:0.46px;
+     font-weight:500;
+     text-decoration: none;
+     transition: all 0.2s;
+     text-transform: capitalize;
+ }
+ .socials ul li a:hover{
+     text-decoration: underline;
+ }
+ .soso{
+     display: flex;
+     gap: 3em;
+ }
+ .terms{
+     padding-top: 3em;
+     padding-bottom: 3em;
+ 
+ }
+ .terms ul{
+   display:flex;
+   gap: 3em;
+   list-style: none;
+   color: #fff;
+ }
+ 
+ .terms ul li a{
+     text-decoration: none;
+     color: #fff;
+     transition: all 0.2s;
+ }
+ .terms ul li a:hover{
+     text-decoration: underline;
+ }
+ .external{
+     margin-left: 30%;
+     transition: all 0.2s;
+ }
+ .external:hover{
+     text-decoration: underline;
+ }
+ .external a i{
+     transform: skew(-0.06turn, 18deg);
+     font-size:10px;
+ }
