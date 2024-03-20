@@ -35,63 +35,38 @@ position: relative;
 text-transform: capitalize;
 }
 .heading{
+  margin: 50px 150px 100px;
   display: flex;
-<<<<<<< HEAD
-  /* gap: 2rem; */
-  margin-top: 5%;
-  /* margin-left: 15%; */ 
- 
-  /* width: 100%; */
-  
-}
-.heading h1{
-  font-weight: 700;
-  font-size: 30px;
-  line-height: 42px;
-  margin-left: 18%;
-  /* padding-right: 25%;  */
- /* border: 2px solid red; */
- text-align: left;
- position: absolute;
- margin-right: 63%;
+  justify-content: space-around;
+  gap: 2rem;
 
-=======
-  gap: 1.5rem;
-  margin-top: 5%;
-  margin-left: 5%;
-  margin-right:  5%; 
-  
 }
+  
+  
+
 .heading h1{
+  width: 25%;
   font-weight: 700px;
   font-size: 30px;
   line-height: 42px;
-margin-left: 6%;
-margin-right: 5%;
->>>>>>> f9fea09411ecd62d1557fabd32b63ec775d4f3c1
+
 }
 .heading p{
+  width: 60%;
   font-size: 16px;
   line-height: 24px;
-<<<<<<< HEAD
+
   font-weight: 400; 
-  padding-right:19%; 
-  margin-left: 40%;
   /* border: 1px solid blue; */
  
 }
 
 .right{
   margin: 3em;
-=======
-  line- weight 400px; 
-  
-}
-.right{
-  margin: 100px;
->>>>>>> f9fea09411ecd62d1557fabd32b63ec775d4f3c1
 
+  font-weight: 400;
 }
+
 .right img{
    width: 100%;
 
@@ -130,11 +105,8 @@ body{
 .africa-mid h1{
   font-size:48px ;
   font-weight:700;
-<<<<<<< HEAD
+
   line-height:58px;
-=======
-  font-height:58px;
->>>>>>> f9fea09411ecd62d1557fabd32b63ec775d4f3c1
   text-align: center;
 
 
@@ -142,7 +114,6 @@ body{
 .africa-mid p{
   font-size :16px;
   font-weight:400;
-<<<<<<< HEAD
   line-height:24px;
   text-align: center;
   margin-left: 6em;
@@ -150,10 +121,9 @@ body{
   margin-top: 1em;
   margin-bottom: 2em;
 
-=======
-  font-height:24px;
+line-height:24px;
   text-align: center;
->>>>>>> f9fea09411ecd62d1557fabd32b63ec775d4f3c1
+
 
 }
 .africa-mid a{
@@ -196,11 +166,10 @@ body{
   display: flex;
   color: #fff;
   width: 80%;
-<<<<<<< HEAD
-margin-top: 8em;
-=======
 
->>>>>>> f9fea09411ecd62d1557fabd32b63ec775d4f3c1
+margin-top: 8em;
+
+
 }
 .left-pic{
   padding-top: 12%;
@@ -331,11 +300,11 @@ font-weight: 700;
   display: flex;
   flex-direction: row;
   justify-content: center;
-  gap: 1.5rem;
+  gap: 3rem;
   padding: 85px 0;
 }
 .left6{
-  width: 45%;
+  width: 40%;
 }
 .left6 h2{
   font-size: 2rem;
@@ -351,10 +320,11 @@ font-weight: 700;
   padding-bottom: 20px;
 }
 .right6 a{
+ 
   text-decoration: none;
   color: #000;
 }
-<<<<<<< HEAD
+
 .and{
   
   position: absolute;
@@ -387,8 +357,6 @@ font-weight: 700;
     
   }
 
-=======
+
 
   
-
->>>>>>> f9fea09411ecd62d1557fabd32b63ec775d4f3c1
