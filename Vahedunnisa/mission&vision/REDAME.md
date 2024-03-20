@@ -24,20 +24,15 @@ This Page tells us About the Mission & Vision of the Pepsico India organization.
 
 ## Screenshots
 
-![Section 1 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/46cf73e79925f93223118db0eeed308e14eec524/Shashank/global%20code%20of%20conduct/screenshot/Screenshot%202024-03-19%20124615.png)
+![Section 1 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/79e6675a5e4549c37bd32461fb9da417c090d2c9/Vahedunnisa/mission%26vision/screenshot/mission%26vision.png)
 
-![Section 2 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/46cf73e79925f93223118db0eeed308e14eec524/Shashank/global%20code%20of%20conduct/screenshot/Screenshot%202024-03-19%20124643.png)
+![Section 2 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/79e6675a5e4549c37bd32461fb9da417c090d2c9/Vahedunnisa/mission%26vision/screenshot/2.png)
 
-![Section 3 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/46cf73e79925f93223118db0eeed308e14eec524/Shashank/global%20code%20of%20conduct/screenshot/Screenshot%202024-03-19%20124708.png)
+![Section 3 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/79e6675a5e4549c37bd32461fb9da417c090d2c9/Vahedunnisa/mission%26vision/screenshot/3.png)
 
-![Section 4 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/46cf73e79925f93223118db0eeed308e14eec524/Shashank/global%20code%20of%20conduct/screenshot/Screenshot%202024-03-19%20124745.png)
+![Section 4 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/79e6675a5e4549c37bd32461fb9da417c090d2c9/Vahedunnisa/mission%26vision/screenshot/7.png)
 
-![Section 5 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/46cf73e79925f93223118db0eeed308e14eec524/Shashank/global%20code%20of%20conduct/screenshot/Screenshot%202024-03-19%20124806.png)
-
-![Section 6 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/46cf73e79925f93223118db0eeed308e14eec524/Shashank/global%20code%20of%20conduct/screenshot/Screenshot%202024-03-19%20124942.png)
-
-![Section 7 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/46cf73e79925f93223118db0eeed308e14eec524/Shashank/global%20code%20of%20conduct/screenshot/Screenshot%202024-03-19%20125007.png)
-
+![Section 5 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/79e6675a5e4549c37bd32461fb9da417c090d2c9/Vahedunnisa/mission%26vision/screenshot/8.png)
 
 
 
