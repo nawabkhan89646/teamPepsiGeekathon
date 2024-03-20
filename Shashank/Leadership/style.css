@@ -2,8 +2,9 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Graphik LC Web Regular";
+    font-family: Arial;
 }
+
 
 .intro{
     position: relative;
@@ -44,15 +45,15 @@
 }
 
 #special{
+    font-weight: bolder;
      position: relative;
 }
 .yellow-bar{
-    display: inline-block;
-    width: 173px;
-    height: 28px;
-    background-color:#ffcc3d;
+    width: 230px;
+    height: 30px;
+    background-color: #ffcc3d;
     position: absolute;
-    bottom: 0;
+    bottom: 6px;
     left: 0;
     z-index: -1;
 }

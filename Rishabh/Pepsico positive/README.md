@@ -25,11 +25,15 @@ This Page tells us about the Positiviness of Pepsico inside Pepsi organization.
 
 ## Screenshots
 
-![Homepage Screenshot](https://github.com/vasu412/Geekathon/blob/main/Swaraj/ResultPage/ScreenShots/1.png)
+![Homepage Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/a9cb78fab956be5b4aa11cf7ccb42e3563ed2f7a/Rishabh/Pepsico%20positive/postive_screenshot_1.JPG)
 
-![Homepage Screenshot](https://github.com/vasu412/Geekathon/blob/main/Swaraj/ResultPage/ScreenShots/2.png)
+![Homepage Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/a9cb78fab956be5b4aa11cf7ccb42e3563ed2f7a/Rishabh/Pepsico%20positive/postive_screenshot_2.JPG)
 
-![Homepage Screenshot](https://github.com/vasu412/Geekathon/blob/main/Swaraj/ResultPage/ScreenShots/3.png)
+![Homepage Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/a9cb78fab956be5b4aa11cf7ccb42e3563ed2f7a/Rishabh/Pepsico%20positive/postive_screenshot_3.JPG)
+
+![Homepage Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/a9cb78fab956be5b4aa11cf7ccb42e3563ed2f7a/Rishabh/Pepsico%20positive/postive_screenshot_4.JPG)
+
+![Homepage Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/a9cb78fab956be5b4aa11cf7ccb42e3563ed2f7a/Rishabh/Pepsico%20positive/postive_screenshot_5.JPG)
 
 
 ## Installation
@@ -66,6 +70,6 @@ The developers and contributors who have worked on this project
 2 - Hitesh
 3 - Shashank
 4 - Nishant
-5 - Mobina
+5 - vahedunnisa
 6 - Rishabh
 7 - Kishore

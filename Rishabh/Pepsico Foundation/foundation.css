@@ -64,18 +64,17 @@ strong{
     padding-bottom: 10%;
 }
 .third_child{
-    /* width: 90%; */
     display: flex;
     justify-content: center;
     gap: 2rem;
 }
 .left{
-    width: 30%;
+    width: 50%;
     font-size: 2.5rem;
     font-weight: 600;
 }
 .right{
-    width: 40%;
+    width: 50%;
     font-size: 1rem;
     font-weight:300 ;
 }
@@ -201,7 +200,6 @@ strong{
     flex-direction: column;
     align-items: center;
     padding-bottom: 7%;
-    /* position: absolute; */
 }
 .sixth_child{
     width: 90%;
@@ -224,11 +222,15 @@ strong{
 }
 .apply_flex_5{
     display: flex;
-    align-items: center;
+    justify-content: flex-start;
     gap: 1.5rem;
-    /* position: relative;
-    top: 0; */
+    height: 100%;
+    /* position: absolute; */
 }
+/* .geje .Ranbir .sara .hardik{
+    position: relative;
+    top: 0;
+} */
 .geje img{
     height: 350px;
     width: 300px;
@@ -240,6 +242,7 @@ strong{
 .geje h2{
     padding-top: 10px;
     padding-bottom: 30px;
+    font-size: 1rem;
 }
 .Ranbir img{
     height: 150px;
@@ -252,6 +255,7 @@ strong{
 .Ranbir h2{
     padding-top: 10px;
     padding-bottom: 30px;
+    font-size: 1rem;
 }
 .sara img{
     height: 280px;
@@ -264,6 +268,7 @@ strong{
 .sara h2{
     padding-top: 10px;
     padding-bottom: 30px;
+    font-size: 1rem;
 }
 .hardik img{
     height: 300px;
@@ -276,6 +281,7 @@ strong{
 .hardik h2{
     padding-top: 10px;
     padding-bottom: 30px;
+    font-size: 1rem;
 }
 .seventh_section{
     width: 100%;
@@ -294,7 +300,10 @@ strong{
     padding: 5% 10%;
 }
 .left6{
-    width: 60%;
+    width: 50%;
+}
+.right{
+    width: 50%;
 }
 .left6 h2{
     font-size: 2rem;
@@ -311,4 +320,74 @@ strong{
 .right6 hr{
     width: 100%;
     height: 0.2rem;
+}
+.p1_3:hover{
+    text-decoration: underline;
+    color: #f5f7f8;
+}
+.p2_3:hover{
+    text-decoration: underline;
+    color: #000000;
+}
+.p3_3:hover{
+    text-decoration: underline;
+    color: #f5f7f8;
+}
+.p4_3:hover{
+    text-decoration: underline;
+    color: #000000;
+}
+.geje p:hover{
+    text-decoration: underline;
+    color: #1d73b4;
+}
+.geje h2:hover{
+    text-decoration: underline;
+    color: #1d73b4;
+}
+.Ranbir p:hover{
+    text-decoration: underline;
+    color: #1d73b4;
+}
+.sara p:hover{
+    text-decoration: underline;
+    color: #1d73b4;
+}
+.sara h2:hover{
+    text-decoration: underline;
+    color: #1d73b4;
+}
+.hardik p:hover{
+    text-decoration: underline;
+    color: #1d73b4;
+}
+.hardik h2:hover{
+    text-decoration: underline;
+    color: #1d73b4;
+}
+.Ranbir h2:hover{
+    text-decoration: underline;
+    color: #1d73b4;
+}
+.sixth_child h3:hover{
+    text-decoration: 2px underline;
+    color: #010508;
+}
+.toptext:hover{
+    text-decoration: 2px underline;
+    color: #010508;
+  }
+  .middletext:hover{
+    text-decoration: 2px underline;
+    color: #010508;
+  }
+  .bottomtext:hover{
+    text-decoration: 2px underline;
+    color: #010508;
+  }
+
+@media screen and (max-width: 425px) {
+    .apply_flex_5{
+        overflow-x: scroll;
+    }
 }

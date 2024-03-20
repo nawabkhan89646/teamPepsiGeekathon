@@ -23,11 +23,15 @@ This Page tells us about the team work in Pepsi organization & collaboration of 
 
 ## Screenshots
 
-![Homepage Screenshot](https://github.com/vasu412/Geekathon/blob/main/Swaraj/ResultPage/ScreenShots/1.png)
+![Homepage Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/6cb22c67a63d6dc2bbb15b3201340f3ee15bbccd/Rishabh/Diversity/diversity_screenshot_1.JPG)
 
-![Homepage Screenshot](https://github.com/vasu412/Geekathon/blob/main/Swaraj/ResultPage/ScreenShots/2.png)
+![Homepage Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/6cb22c67a63d6dc2bbb15b3201340f3ee15bbccd/Rishabh/Diversity/diversity_screenshot_2.JPG)
 
-![Homepage Screenshot](https://github.com/vasu412/Geekathon/blob/main/Swaraj/ResultPage/ScreenShots/3.png)
+![Homepage Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/6cb22c67a63d6dc2bbb15b3201340f3ee15bbccd/Rishabh/Diversity/diversity_screenshot_3.JPG)
+
+![Homepage Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/6cb22c67a63d6dc2bbb15b3201340f3ee15bbccd/Rishabh/Diversity/diversity_screenshot_4.JPG)
+
+![Homepage Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/6cb22c67a63d6dc2bbb15b3201340f3ee15bbccd/Rishabh/Diversity/diversity_screenshot_5.JPG)
 
 
 ## Installation
@@ -64,6 +68,6 @@ The developers and contributors who have worked on this project
 2 - Hitesh
 3 - Shashank
 4 - Nishant
-5 - Mobina
+5 - vahedunnisa
 6 - Rishabh
 7 - Kishore

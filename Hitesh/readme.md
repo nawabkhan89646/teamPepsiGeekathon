@@ -8,10 +8,10 @@ Check out the live demo [here](hthttps://nawabkhan89646.github.io/teamPepsiGeeka
 
 ## Features
 
-- 
-- Up-to-date driver standings
-- Follow your favorite drivers and view their profiles, clubs, country, etc.
-- Responsive design for optimal viewing on desktop and mobile devices
+- Key heading about the wabpage.
+- About our brands & program. 
+- Content our CSR Projects.
+- Media contect our PepsiCo .
 
 ## Screenshots
 
@@ -38,7 +38,7 @@ To run this project locally, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/vasu412/Geekathon.git
+  [ git clone https://github.com/nawabkhan89646/teamPepsiGeekathon/tree/main ]
 
 cd teamPepsiGeekathon/Hitesh
 
@@ -52,7 +52,7 @@ cd teamPepsiGeekathon/Hitesh
 
 ### Contact
 For any inquiries or feedback, feel free to contact us:
-Your Name - jangidhiteshr12234gmail.com
+Email Id- jangidhiteshr12234gmail.com
 
 # Thank you for your interest in my work! 😊
 Project Status
