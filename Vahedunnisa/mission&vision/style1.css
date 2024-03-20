@@ -1,0 +1,287 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: 0; 
+  font-family: Arial, Helvetica, sans-serif;
+}
+.mission{
+  margin: 3em;
+
+}
+.mid-head{
+  text-align: center;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 700;
+}
+.mid-head h1{
+  padding-top: 1em;
+}
+.change-color{
+  color: inherit;
+  background: linear-gradient(120deg, #ffcc3d 0, #ffcc3d 100%);
+  background-repeat: no-repeat;
+  background-size: 97% 39%;
+  background-position: 0 90%;
+}
+.consumer{
+  display: flex;
+  padding-top: 4em;
+  gap: 3rem;
+
+}
+.consumer h1{
+  font-size: 32px;
+  line-height: 42px;
+  font-weight: 700;
+  margin-left: 20%;
+
+  
+}
+.consumer ul{
+  list-style: none;
+  margin-right: 15%;
+
+}
+.li2{
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  
+}
+
+.li1{
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 800;
+}
+.special{
+  padding-left: 100px;
+  display: inline-block;
+  color: #eeefef !important;
+  font-size: 180px !important;
+  font-weight: 900 !important;
+  letter-spacing: 0 !important;
+  line-height: 200px !important;
+  position: relative;
+  left: 100px;
+  padding-bottom: 20px ;
+  text-align: center;
+  text-transform: uppercase;
+}
+.special span{
+  color: #000;
+  font-size: 32px !important;
+  font-weight: 700 !important;
+  letter-spacing: 0 !important;
+  line-height: 40px !important;
+  position: absolute;
+  top: 80px;
+  left: 180px;
+  /* border: 2px solid green; */
+}
+
+.para{
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 50px;
+}
+.para p{
+  margin-bottom: 1.5rem;
+  line-height: 20px;
+}
+
+
+
+.third{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0px 140px;
+}
+.image{
+  width: 50%;
+  height: 520px;
+}
+.third-content{
+  width: 50%;
+  height: 520px;
+  background-color: #C05535;
+}
+.image img{
+  
+  width: 100%;
+  height: 100%;
+  object-fit: cover; 
+}
+.content-1{
+  padding: 25% 80px;
+  color: white;
+}
+
+
+.third-content h1{
+  font-size: 2rem;
+  line-height: 2.625rem;
+  margin-bottom: 20px;
+}
+.third-content p{
+  margin-bottom: 24px;
+}
+.third-content ul li{
+  color: white;
+  line-height: 24px;
+  padding-bottom: .4rem;
+}
+.colour{
+  background-color: white;
+}
+.colour-content{
+  color: #000;
+}
+#colour-li{
+  color: #000;
+}
+.colour-2{
+  background-color: #568302;
+}
+
+
+
+
+
+
+
+
+
+
+
+.images img{
+display:block;
+height: 400px;
+width: 300px;
+
+}
+.pictures1 img{
+height: 300px;
+width: 300px;
+}
+.pictures2 img{
+ height: 539px;
+ width: 345px;
+}
+.fifth_section{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.fifth_child{
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.fifth_child h1{
+  font-size: 3.5rem;
+  padding-top: 10%;
+  padding-bottom: 5%;
+}
+.apply_flex_5{
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+.geje img{
+  height: 350px;
+  width: 300px;
+  padding-bottom: 10px;
+}
+.geje p{
+  padding-bottom: 3px;
+}
+.geje h2{
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+.Ranbir img{
+  height: 150px;
+  width: 300px;
+  padding-bottom: 10px;
+}
+.Ranbir p{
+  padding-bottom: 3px; 
+}
+.Ranbir h2{
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+.sara img{
+  height: 280px;
+  width: 300px;
+  padding-bottom: 10px;
+}
+.sara p{
+  padding-bottom: 3px;
+}
+.sara h2{
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+.hardik img{
+  height: 300px;
+  width: 300px;
+  padding-bottom: 10px;
+}
+.hardik p{
+  padding-bottom: 3px;
+}
+.hardik h2{
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+.fifth_section h3{
+  padding-top: 5%;
+  padding-bottom: 8%;
+}
+.fifth_section h3 a{
+  text-decoration: none;
+  color: #000;
+}
+
+
+.sixth_section{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f7f1f1;
+}
+.sixth_child{
+  width: 80%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 1.5rem;
+  padding: 85px 0;
+}
+.left6{
+  width: 45%;
+}
+.left6 h2{
+  font-size: 2rem;
+}
+.toptext{
+  padding-bottom: 20px;
+}
+.middletext{
+  padding: 20px 0px;
+}
+.bottomtext{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.right6 a{
+  text-decoration: none;
+  color: #000;
+}

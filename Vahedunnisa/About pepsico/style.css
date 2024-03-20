@@ -36,27 +36,37 @@ text-transform: capitalize;
 }
 .heading{
   display: flex;
-  gap: 1.5rem;
+  /* gap: 2rem; */
   margin-top: 5%;
-  margin-left: 5%;
-  margin-right:  5%; 
+  /* margin-left: 15%; */ 
+ 
+  /* width: 100%; */
   
 }
 .heading h1{
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 30px;
   line-height: 42px;
-margin-left: 6%;
-margin-right: 5%;
+  margin-left: 18%;
+  /* padding-right: 25%;  */
+ /* border: 2px solid red; */
+ text-align: left;
+ position: absolute;
+ margin-right: 63%;
+
 }
 .heading p{
   font-size: 16px;
   line-height: 24px;
-  line- weight 400px; 
-  
+  font-weight: 400; 
+  padding-right:19%; 
+  margin-left: 40%;
+  /* border: 1px solid blue; */
+ 
 }
+
 .right{
-  margin: 100px;
+  margin: 3em;
 
 }
 .right img{
@@ -97,7 +107,7 @@ body{
 .africa-mid h1{
   font-size:48px ;
   font-weight:700;
-  font-height:58px;
+  line-height:58px;
   text-align: center;
 
 
@@ -105,8 +115,13 @@ body{
 .africa-mid p{
   font-size :16px;
   font-weight:400;
-  font-height:24px;
+  line-height:24px;
   text-align: center;
+  margin-left: 6em;
+  margin-right: 14em;
+  margin-top: 1em;
+  margin-bottom: 2em;
+
 
 }
 .africa-mid a{
@@ -149,7 +164,7 @@ body{
   display: flex;
   color: #fff;
   width: 80%;
-
+margin-top: 8em;
 }
 .left-pic{
   padding-top: 12%;
@@ -303,6 +318,35 @@ font-weight: 700;
   text-decoration: none;
   color: #000;
 }
-
+.and{
   
+  position: absolute;
+  right:350px;
+  top:340px;
+  content: "";
+  
+  /* width: 20px;
+  height: 25px; */
+ 
+
+}
+.and img{
+  width: 90%;
+
+}
+
+.show2{
+  position: absolute; 
+  left:270px;
+  top:600px;
+  content: "";
+  
+  
+
+}
+
+  .show2 img{
+    width: 40%;
+    
+  }
 
