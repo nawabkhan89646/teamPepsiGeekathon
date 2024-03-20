@@ -25,19 +25,21 @@ This Page tells us About the Pepsico India organization.
 
 ## Screenshots
 
-![Section 1 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/46cf73e79925f93223118db0eeed308e14eec524/Shashank/global%20code%20of%20conduct/screenshot/Screenshot%202024-03-19%20124615.png)
+![Section 1 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/a81722841c464daee5543ee5105988d0c110961e/Vahedunnisa/About%20pepsico/screenshot/Screenshot%202024-03-20%20175921.png)
 
-![Section 2 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/46cf73e79925f93223118db0eeed308e14eec524/Shashank/global%20code%20of%20conduct/screenshot/Screenshot%202024-03-19%20124643.png)
+![Section 2 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/a81722841c464daee5543ee5105988d0c110961e/Vahedunnisa/About%20pepsico/screenshot/Screenshot%202024-03-20%20180049.png)
 
-![Section 3 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/46cf73e79925f93223118db0eeed308e14eec524/Shashank/global%20code%20of%20conduct/screenshot/Screenshot%202024-03-19%20124708.png)
+![Section 3 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/a81722841c464daee5543ee5105988d0c110961e/Vahedunnisa/About%20pepsico/screenshot/3.png)
 
-![Section 4 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/46cf73e79925f93223118db0eeed308e14eec524/Shashank/global%20code%20of%20conduct/screenshot/Screenshot%202024-03-19%20124745.png)
+![Section 4 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/a81722841c464daee5543ee5105988d0c110961e/Vahedunnisa/About%20pepsico/screenshot/127.0.0.1_5500_Vahedunnisa_About%2520pepsico_index.html%20(1).png)
 
-![Section 5 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/46cf73e79925f93223118db0eeed308e14eec524/Shashank/global%20code%20of%20conduct/screenshot/Screenshot%202024-03-19%20124806.png)
+![Section 5 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/a81722841c464daee5543ee5105988d0c110961e/Vahedunnisa/About%20pepsico/screenshot/5.png)
 
-![Section 6 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/46cf73e79925f93223118db0eeed308e14eec524/Shashank/global%20code%20of%20conduct/screenshot/Screenshot%202024-03-19%20124942.png)
+![Section 6 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/a81722841c464daee5543ee5105988d0c110961e/Vahedunnisa/About%20pepsico/screenshot/6.png)
 
-![Section 7 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/46cf73e79925f93223118db0eeed308e14eec524/Shashank/global%20code%20of%20conduct/screenshot/Screenshot%202024-03-19%20125007.png)
+![Section 7 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/a81722841c464daee5543ee5105988d0c110961e/Vahedunnisa/About%20pepsico/screenshot/7.png)
+
+![Section 8 Screenshot](https://github.com/nawabkhan89646/teamPepsiGeekathon/blob/a81722841c464daee5543ee5105988d0c110961e/Vahedunnisa/About%20pepsico/screenshot/8.png)
 
 
 
