@@ -1,0 +1,247 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* body{
+    margin-top: 5%;
+    padding-left: 3em;
+    display: flex;
+    gap: 8em;
+    overflow-x: hidden;
+} */
+.main-sec{
+    margin-top: 5%;
+    padding-left: 3em;
+    display: flex;
+    gap: 8em;
+    overflow-x: hidden;
+}
+.left{
+    margin-left: 2em;
+    margin-top: 0.5em;
+}
+.search-bar{
+    border-bottom: 2px solid black;
+    width: 100%;
+    display: flex;
+}
+.search-bar input{
+    border:none;
+    outline: none;
+    /* position: relative; */
+    padding-left: 8px;
+    margin-bottom: 17px;
+}
+.search-bar button{
+    margin-bottom: 12px;
+    font-size: 16px;
+    background-color: white;
+    border: none;
+    text-transform: capitalize;
+    cursor: pointer;
+    /* text-decoration: underline; */
+}
+.search-bar i{
+    font-size: 12px;
+}
+.categ ul ,.year ul{
+    list-style: none;
+}
+.categ ul li ,.year ul li{
+    padding-top: 8px;
+}
+.categ ul li a,.year ul li a{
+  color: #7c8083;
+  text-decoration: none;
+  line-height: 40px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  font-size: 16px;
+}
+.categ button ,.year button{
+    padding-top: 3em;
+    font-size: 18px;
+    background-color: white;
+    border: none;
+    /* text-transform: capitalize; */
+    cursor: pointer;
+    line-height: 28px;
+    font-weight: 700;
+    letter-spacing: 0.52px;
+ 
+}
+
+.right{
+    width: 90%;
+}
+.head{
+    display: flex;
+    justify-content:space-between;
+    text-align: left;
+    border-bottom: 1px solid #000;
+    /* padding-bottom: 2em; */
+    padding-right: 2em;
+}
+.head h1{
+    font-size: 28px;
+    line-height: 42px;
+    letter-spacing: 0.39px;
+    font-weight: 700;
+}
+.head ul{
+    list-style: none;
+    display:flex ;
+   
+}
+.head ul li{
+    padding-right: 10px;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 0.41px;
+    font-weight: 400;
+}
+.arrow{
+    /* font-size: 160px; */
+    color: #727579;
+    /* border: 1px solid rgb(0 0 0 / 50%); */
+    /* padding: 9px 0px 1px 5px; */
+}
+
+.box{
+    display: flex;
+    justify-content: space-between;
+    /* width: 80em; */
+    margin-right: 2em;
+    padding-bottom: 3em;
+    padding-top: 3em;
+    border-bottom: 2px solid rgba(114, 117, 121,0.2);
+}
+.box img{
+    width: 35%;
+    position: relative;
+}
+.main{
+    align-self: center;
+    text-align: left;
+    
+}
+.main h5 ,.adjust h5{
+    color: #727579;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 0.41px;
+    font-weight: 800;
+}
+.main h2 ,.adjust h2{
+    padding-right: 20%;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0.33px;
+    font-weight: 800;
+}
+.main h2 a{
+    color: #000;
+    text-decoration: none;
+    transition: all 0.2s;
+}
+.main h2 a:hover{
+  color: #0056b3;
+  text-decoration: underline;
+}
+.main h6 ,.adjust h6{
+    font-size: 12px;
+    line-height: 22px;
+    letter-spacing: 0.35px;
+    font-weight: 400;
+}
+.adjust{
+    /* position: absolute; */
+    width: 100%;
+    /* border: 1px solid #0056b3; */
+}
+.adjust h2 a{
+    color: #000;
+    text-decoration: none;
+    transition: all 0.2s;
+}
+.adjust h2 a:hover{
+  text-decoration: underline;
+  color: #0056b3;
+}
+.footer{
+    background-color:#004c97;
+     padding-top: 5%;
+     padding-left: 8%;
+ }
+ .logo{
+     color: #fff;
+     font-size:16px;
+     line-height:19px;
+     letter-spacing:0.38px;
+     font-weight:400;
+ }
+ .socials{
+     display: flex;
+     justify-content: space-between;
+     padding-right: 18%;
+    
+ }
+ .socials ul{
+     list-style: none;
+ }
+ .socials ul li{
+     padding-top: 2em;
+ }
+ .socials ul li a{
+     color: #fff;
+     font-size:15px;
+     line-height:19px;
+     letter-spacing:0.46px;
+     font-weight:500;
+     text-decoration: none;
+     transition: all 0.2s;
+     text-transform: capitalize;
+ }
+ .socials ul li a:hover{
+     text-decoration: underline;
+ }
+ .soso{
+     display: flex;
+     gap: 3em;
+ }
+ .terms{
+     padding-top: 3em;
+     padding-bottom: 3em;
+ 
+ }
+ .terms ul{
+   display:flex;
+   gap: 3em;
+   list-style: none;
+   color: #fff;
+ }
+ 
+ .terms ul li a{
+     text-decoration: none;
+     color: #fff;
+     transition: all 0.2s;
+ }
+ .terms ul li a:hover{
+     text-decoration: underline;
+ }
+ .external{
+     margin-left: 30%;
+     transition: all 0.2s;
+ }
+ .external:hover{
+     text-decoration: underline;
+ }
+ .external a i{
+     transform: skew(-0.06turn, 18deg);
+     font-size:10px;
+ }
+@media screen and (max-width: 766px) {
+    #hide {
+        display: none;
+    }
+}

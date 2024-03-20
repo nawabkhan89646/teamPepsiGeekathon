@@ -36,6 +36,7 @@ text-transform: capitalize;
 }
 .heading{
   display: flex;
+<<<<<<< HEAD
   /* gap: 2rem; */
   margin-top: 5%;
   /* margin-left: 15%; */ 
@@ -54,10 +55,25 @@ text-transform: capitalize;
  position: absolute;
  margin-right: 63%;
 
+=======
+  gap: 1.5rem;
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right:  5%; 
+  
+}
+.heading h1{
+  font-weight: 700px;
+  font-size: 30px;
+  line-height: 42px;
+margin-left: 6%;
+margin-right: 5%;
+>>>>>>> f9fea09411ecd62d1557fabd32b63ec775d4f3c1
 }
 .heading p{
   font-size: 16px;
   line-height: 24px;
+<<<<<<< HEAD
   font-weight: 400; 
   padding-right:19%; 
   margin-left: 40%;
@@ -67,6 +83,13 @@ text-transform: capitalize;
 
 .right{
   margin: 3em;
+=======
+  line- weight 400px; 
+  
+}
+.right{
+  margin: 100px;
+>>>>>>> f9fea09411ecd62d1557fabd32b63ec775d4f3c1
 
 }
 .right img{
@@ -107,7 +130,11 @@ body{
 .africa-mid h1{
   font-size:48px ;
   font-weight:700;
+<<<<<<< HEAD
   line-height:58px;
+=======
+  font-height:58px;
+>>>>>>> f9fea09411ecd62d1557fabd32b63ec775d4f3c1
   text-align: center;
 
 
@@ -115,6 +142,7 @@ body{
 .africa-mid p{
   font-size :16px;
   font-weight:400;
+<<<<<<< HEAD
   line-height:24px;
   text-align: center;
   margin-left: 6em;
@@ -122,6 +150,10 @@ body{
   margin-top: 1em;
   margin-bottom: 2em;
 
+=======
+  font-height:24px;
+  text-align: center;
+>>>>>>> f9fea09411ecd62d1557fabd32b63ec775d4f3c1
 
 }
 .africa-mid a{
@@ -164,7 +196,11 @@ body{
   display: flex;
   color: #fff;
   width: 80%;
+<<<<<<< HEAD
 margin-top: 8em;
+=======
+
+>>>>>>> f9fea09411ecd62d1557fabd32b63ec775d4f3c1
 }
 .left-pic{
   padding-top: 12%;
@@ -318,6 +354,7 @@ font-weight: 700;
   text-decoration: none;
   color: #000;
 }
+<<<<<<< HEAD
 .and{
   
   position: absolute;
@@ -350,3 +387,8 @@ font-weight: 700;
     
   }
 
+=======
+
+  
+
+>>>>>>> f9fea09411ecd62d1557fabd32b63ec775d4f3c1
